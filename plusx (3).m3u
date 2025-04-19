@@ -7,23 +7,23 @@ http://cdnx1.plusx.tv:4000/144/mono.m3u8?token=f5485ac6d54dba40593333
 http://cdnx1.plusx.tv:4000/143/mono.m3u8?token=f5485ac6d54dba40593333
 #EXTINF:0 type="stream" channelId="3257" name="TVP 3" group="Popularny" logo="http://logo.plusx.tv/logo/TVP%203.png" catchup="flussonic", TVP 3 HD Warszawa
 http://cdnx1.plusx.tv:4000/142/mono.m3u8?token=f5485ac6d54dba40593333
-#EXTINF:0 type="stream" channelId="2348" name="TVN 7" group="Popularny" logo="http://logo.plusx.tv/logo/TVN%207%20HD.png" catchup="flussonic", TVN 7 HD
+#EXTINF:0 type="stream" channelId="2348" name="TVN 7" group="Popularny" logo="http://logo.tvmedia.io/images/97bd0a95cd7e9dc1a65069be3ccb129d.png" catchup="flussonic", TVN 7 HD
 http://cdnx1.plusx.tv:4000/152/mono.m3u8?token=f5485ac6d54dba40593333
-#EXTINF:0 type="stream" channelId="2344" name="TVN" group="Popularny" logo="http://logo.plusx.tv/logo/TVN%20HD.png" catchup="flussonic", TVN HD
+#EXTINF:0 type="stream" channelId="2344" name="TVN" group="Popularny" logo="http://logo.tvmedia.io/images/2ea325ffb82521ee39ad2403eef6084a.png" catchup="flussonic", TVN HD
 http://cdnx1.plusx.tv:4000/149/mono.m3u8?token=f5485ac6d54dba40593333
-#EXTINF:0 type="stream" channelId="937" name="Polsat" group="Popularny" logo="http://epg.ovh/logo/Polsat.png" catchup="flussonic", Polsat HD
+#EXTINF:0 type="stream" channelId="937" name="Polsat" group="Popularny" logo="http://logo.tvmedia.io/images/c7079714540d46c9f5bb9f78f090ea39.png" catchup="flussonic", Polsat HD
 http://cdnx1.plusx.tv:4000/203/mono.m3u8?token=f5485ac6d54dba4059333
 #EXTINF:0 type="stream" channelId="3260" name="Polsat 1" group="Popularny" logo="https://epg.ovh/logo/Polsat+1.png" catchup="flussonic", Polsat 1
 http://cdnx1.plusx.tv:4000/13tv1/mono.m3u8?token=f5485ac6d54dba40593333
-#EXTINF:0 type="stream" channelId="2374" name="Polsat 2" group="Popularny" logo="http://epg.ovh/logo/Polsat+2.png" catchup="flussonic", Polsat 2 HD
+#EXTINF:0 type="stream" channelId="2374" name="Polsat 2" group="Popularny" logo="http://logo.tvmedia.io/images/2ff9b139bd723859d0a79125cbd190e9.png" catchup="flussonic", Polsat 2 HD
 http://cdnx1.plusx.tv:4000/208/mono.m3u8?token=f5485ac6d54dba40593333
-#EXTINF:0 type="stream" channelId="2346" name="TV Puls" group="Popularny" logo="http://logo.plusx.tv/logo/TV%20Puls%20HD.png" catchup="flussonic", TV Puls HD
+#EXTINF:0 type="stream" channelId="2346" name="TV Puls" group="Popularny" logo="http://logo.tvmedia.io/images/ddbf13685943f24041438d7653d09f87.png" catchup="flussonic", TV Puls HD
 http://cdnx1.plusx.tv:4000/158/mono.m3u8?token=f5485ac6d54dba40593333
-#EXTINF:0 type="stream" channelId="2350" name="TV Puls 2" group="Popularny" logo="http://logo.plusx.tv/logo/Puls%202.png" catchup="flussonic", Puls 2
+#EXTINF:0 type="stream" channelId="2350" name="TV Puls 2" group="Popularny" logo="http://logo.tvmedia.io/images/526dedb5075de82a3a60fc48bdfb0e25.png" catchup="flussonic", Puls 2
 http://cdnx1.plusx.tv:4000/180/mono.m3u8?token=f5485ac6d54dba40593333
-#EXTINF:0 type="stream" channelId="3357" name="TV4" group="Popularny" logo="http://epg.ovh/logo/TV+4.png" catchup="flussonic", TV 4 HD
+#EXTINF:0 type="stream" channelId="3357" name="TV4" group="Popularny" logo="http://logo.tvmedia.io/images/f7c242d4f286ca40d1cc4c90d568a589.png" catchup="flussonic", TV 4 HD
 http://cdnx1.plusx.tv:4000/161/mono.m3u8?token=f5485ac6d54dba40593333
-#EXTINF:0 type="stream" channelId="952" name="TV 6" group="Popularny" logo="http://epg.ovh/logo/TV+6.png" catchup="flussonic", TV 6 HD
+#EXTINF:0 type="stream" channelId="952" name="TV 6" group="Popularny" logo="http://logo.tvmedia.io/images/logo/TV%206%20HD.png" catchup="flussonic", TV 6 HD
 http://cdnx1.plusx.tv:4000/160/mono.m3u8?token=f5485ac6d54dba40593333
 #EXTINF:0 type="stream" channelId="2161" name="13 Ulica" group="Rozrywka" logo="http://logo.plusx.tv/logo/13%20Ulica%20HD.png" catchup="flussonic", 13 Ulica HD
 http://cdnx1.plusx.tv:4000/325/mono.m3u8?token=f5485ac6d54dba40593333
