@@ -1,4 +1,4 @@
-#EXTM3U tvg-url "https://epg.ovh/plar.xml", "https://epg.ovh/pl.xml
+#EXTM3U tvg-url "https://epg.ovh/plar.xml", "https://epg.ovh/pl.xml", "https://epg.polishteam.one/guide.xml", "https://epg.listam3u.com"
 #EXTINF:0 type="stream" channelId="1523" name="TVP HD" group="Popularny" logo="http://logo.plusx.tv/logo/TVP%20HD.png" catchup="flussonic", TVP HD
 http://cdnx1.plusx.tv:4000/141/mono.m3u8?token=f5485ac6d54dba40593333
 #EXTINF:0 type="stream" channelId="1520" name="TVP 1" group="Popularny" logo="http://logo.plusx.tv/logo/TVP%201%20HD.png" catchup="flussonic", TVP 1 HD
