@@ -1,0 +1,783 @@
+#EXTM3U tvg-url "https://epg.ovh/plar.xml", "https://epg.ovh/pl.xml
+#EXTINF:0 type="stream" channelId="1523" name="TVP HD" group="Popularny" logo="http://logo.plusx.tv/logo/TVP%20HD.png" catchup="flussonic", TVP HD
+http://cdnx1.plusx.tv:4000/141/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1520" name="TVP 1" group="Popularny" logo="http://logo.plusx.tv/logo/TVP%201%20HD.png" catchup="flussonic", TVP 1 HD
+http://cdnx1.plusx.tv:4000/144/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1521" name="TVP 2" group="Popularny" logo="http://logo.plusx.tv/logo/TVP%202%20HD.png" catchup="flussonic", TVP 2 HD
+http://cdnx1.plusx.tv:4000/143/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3257" name="TVP 3" group="Popularny" logo="http://logo.plusx.tv/logo/TVP%203.png" catchup="flussonic", TVP 3 HD Warszawa
+http://cdnx1.plusx.tv:4000/142/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2348" name="TVN 7" group="Popularny" logo="http://logo.plusx.tv/logo/TVN%207%20HD.png" catchup="flussonic", TVN 7 HD
+http://cdnx1.plusx.tv:4000/152/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2344" name="TVN" group="Popularny" logo="http://logo.plusx.tv/logo/TVN%20HD.png" catchup="flussonic", TVN HD
+http://cdnx1.plusx.tv:4000/149/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3260" name="Polsat 1" group="Popularny" logo="https://epg.ovh/logo/Polsat+1.png" catchup="flussonic", Polsat 1
+http://cdnx1.plusx.tv:4000/13tv1/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2374" name="Polsat 2" group="Popularny" logo="http://epg.ovh/logo/Polsat+2.png" catchup="flussonic", Polsat 2 HD
+http://cdnx1.plusx.tv:4000/208/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2161" name="13 Ulica" group="Rozrywka" logo="http://logo.plusx.tv/logo/13%20Ulica%20HD.png" catchup="flussonic", 13 Ulica HD
+http://cdnx1.plusx.tv:4000/325/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1569" name="13.TV" group="Rozrywka" logo="https://epg.ovh/logo/13.TV.png" catchup="flussonic", 13 TV HD
+http://cdnx1.plusx.tv:4000/6016/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3200" name="4FUN DANCE" group="Muzyka" logo="http://logo.plusx.tv/logo/4Fun%20Fit%20Dance.png" catchup="flussonic", 4FUN DANCE
+http://cdnx1.plusx.tv:4000/324/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="4FUN KIDS" group="Dla Dzieci" logo="http://epg.ovh/logo/4FUN+KIDS.png" catchup="flussonic", 4FUN KIDS
+http://cdnx1.plusx.tv:4000/323/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="14" name="2x2" group="Dla Dzieci" logo="https://epg.ovh/logo/2x2.png" audio-track="pol" catchup="flussonic", 2x2 HD
+http://cdnx1.plusx.tv:4000/2x2/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="4FUN TV" group="Muzyka" logo="http://logo.plusx.tv/logo/4Fun.png" catchup="flussonic", 4FUN TV
+http://cdnx1.plusx.tv:4000/322/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Antena" group="Rozrywka" logo="http://epg.ovh/logo/Antena.png" catchup="flussonic", Antena
+http://cdnx1.plusx.tv:4000/1316/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2501" name="AMC HD" group="Film" logo="http://logo.plusx.tv/logo/AMC%20HD.png" catchup="flussonic", AMC HD
+http://cdnx1.plusx.tv:4000/318/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1575" name="AXN Black" group="Rozrywka" logo="http://logo.plusx.tv/logo/AXN%20Black.png" catchup="flussonic", AXN Black
+http://cdnx1.plusx.tv:4000/314/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1573" name="AXN" group="Rozrywka" logo="http://logo.plusx.tv/logo/AXN%20HD.png" catchup="flussonic", AXN HD
+http://cdnx1.plusx.tv:4000/313/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2431" name="AXNSpinHD" group="Rozrywka" logo="http://logo.plusx.tv/logo/AXN%20Spin%20HD.png" catchup="flussonic", AXN Spin HD
+http://cdnx1.plusx.tv:4000/312/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1574" name="AXN White" group="Rozrywka" logo="http://logo.plusx.tv/logo/AXN%20White.png" catchup="flussonic", AXN White
+http://cdnx1.plusx.tv:4000/311/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2425" name="Adventure" group="Rozrywka" logo="http://logo.plusx.tv/logo/Adventure%20HD.png" catchup="flussonic", Adventure HD
+http://cdnx1.plusx.tv:4000/320/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4380" name="Active Family" group="Rozrywka" logo="http://epg.ovh/logo/Active+Family.png" catchup="flussonic", Active Family
+http://cdnx1.plusx.tv:4000/321/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2395" name="Ale Kino!" group="Film" logo="http://logo.plusx.tv/logo/Ale%20Kino+%20HD.png" catchup="flussonic", Ale Kino+ HD
+http://cdnx1.plusx.tv:4000/319/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="240" name="Animal Planet HD" group="Dokument" logo="http://logo.plusx.tv/logo/Animal%20Planet%20HD.png" catchup="flussonic", Animal Planet HD
+http://cdnx1.plusx.tv:4000/317/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="HOME TV" group="Rozrywka" logo="https://epg.ovh/logo/Home+TV.png" catchup="flussonic", Home TV
+http://cdnx1.plusx.tv:4000/8080/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2407" name="BBC-Brit" group="Dokument" logo="http://logo.plusx.tv/logo/BBC%20Brit%20HD.png" catchup="flussonic", BBC Brit HD
+http://cdnx1.plusx.tv:4000/309/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3192" name="BBC Earth" group="Dokument" logo="http://logo.plusx.tv/logo/BBC%20Earth%20HD.png" catchup="flussonic", BBC Earth HD
+http://cdnx1.plusx.tv:4000/307/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4374" name="BBC Fisrt" group="Rozrywka" logo="http://logo.plusx.tv/logo/BBC%20Frist.png" catchup="flussonic", BBC First HD
+http://cdnx1.plusx.tv:4000/306/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1145" name="BBC Lifestyle" group="Dokument" logo="http://logo.plusx.tv/logo/BBC%20Lifestyle%20HD.png" catchup="flussonic", BBC Lifestyle HD
+http://cdnx1.plusx.tv:4000/305/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1147" name="BBC CBeebies" group="Dla Dzieci" logo="http://logo.plusx.tv/logo/BBC%20Cbeebies.png" catchup="flussonic", BBC CBeebies
+http://cdnx1.plusx.tv:4000/308/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="473" name="BabyTV" group="Dla Dzieci" logo="http://logo.plusx.tv/logo/Baby%20TV.png" catchup="flussonic", Baby TV
+http://cdnx1.plusx.tv:4000/310/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1",https://epg.ovh/logo/CARTOONITO.png" timeshift="5" catchup="default group-title="Dla Dzieci" ,Cartoonito HD
+
+#EXTINF:0 type="stream" channelId="-1" name="Biznes 24" group="Informacje" logo="http://epg.ovh/logo/Biznes+24.png" catchup="flussonic", Biznes 24 HD
+http://cdnx1.plusx.tv:4000/2020/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Canal+ Discovery HD" group="Dokument" logo="http://epg.ovh/logo/Canal%2b+Dokument.png" catchup="flussonic", Canal+ Dokument HD
+http://cdnx1.plusx.tv:4000/301/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1351" name="CANAL+ Family" group="Film" logo="http://logo.plusx.tv/logo/Canal+%20Family%20HD.png" catchup="flussonic", Canal+ Family HD
+http://cdnx1.plusx.tv:4000/300/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3181" name="CANAL+ Film" group="Film" logo="http://logo.plusx.tv/logo/Canal+%20Film%20HD.png" catchup="flussonic", Canal+ Film HD
+http://cdnx1.plusx.tv:4000/296/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Canal+ Premium" group="Film" logo="http://epg.ovh/logo/Canal%2b+Premium.png" catchup="flussonic", CANAL+ Premium HD
+http://cdnx1.plusx.tv:4000/295/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4390" name="Canal+ Now" group="Sport" logo="http://logo.plusx.tv/logo/Canal+%20Now.png" catchup="flussonic", Canal+ Now HD
+http://cdnx1.plusx.tv:4000/299/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3182" name="Canal+ Seriale" group="Film" logo="http://logo.plusx.tv/logo/Canal+%20Seriale%20HD.png" catchup="flussonic", Canal+ Seriale HD
+http://cdnx1.plusx.tv:4000/294/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1350" name="Canalplus Sport" group="Sport" logo="http://logo.plusx.tv/logo/Canal+%20Sport%20HD.png" catchup="flussonic", Canal+ Sport HD
+http://cdnx1.plusx.tv:4000/297/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Canal+ Sport 2 HD" group="Sport" logo="http://logo.plusx.tv/logo/Canal+%20Sport%202%20HD.png" catchup="flussonic", Canal+ Sport 2 HD
+http://cdnx1.plusx.tv:4000/298/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4388" name="Canal+ Sport 3" group="Sport" logo="http://epg.ovh/logo/Canal++Sport+3+HD.png" catchup="flussonic", Canal+ Sport 3 HD
+http://cdnx1.plusx.tv:4000/340/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4389" name="Canal+ Sport 4" group="Sport" logo="http://epg.ovh/logo/Canal++Sport+4+HD.png" catchup="flussonic", Canal+ Sport 4 HD
+http://cdnx1.plusx.tv:4000/341/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Canal+ Sport 5" group="Sport" logo="https://epg.ovh/logo/Canal++Sport+5.png" catchup="flussonic", Canal+ Sport 5 HD
+http://cdnx1.plusx.tv:4000/215/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3180" name="CANAL+ 1" group="Film" logo="http://logo.plusx.tv/logo/Canal+%201%20HD.png" catchup="flussonic", Canal+ 1 HD
+http://cdnx1.plusx.tv:4000/302/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2428" name="CBS Europa HD" group="Film" logo="http://logo.plusx.tv/logo/CBS%20Europa%20HD.png" catchup="flussonic", CBS Europa HD
+http://cdnx1.plusx.tv:4000/291/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="324" name="CBS Reality" group="Dokument" logo="http://logo.plusx.tv/logo/CBS%20Reality.png" catchup="flussonic", CBS Reality
+http://cdnx1.plusx.tv:4000/290/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3188" name="Comedy-Central-Family" group="Rozrywka" logo="http://epg.ovh/logo/Polsat+Comedy+Central+Extra.png" catchup="flussonic", Comedy Central Extra HD
+http://cdnx1.plusx.tv:4000/289/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="40" name="Cartoon-Network" group="Dla Dzieci" logo="http://logo.plusx.tv/logo/Cartoon%20Network%20HD.png" catchup="flussonic", Cartoon Network HD
+http://cdnx1.plusx.tv:4000/293/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2802" name="Bollywood HD" group="Film" logo="https://epg.ovh/logo/Bollywood+HD.png" catchup="flussonic", Bollywood HD
+http://cdnx1.plusx.tv:4000/Bollywood/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="FILMAX" group="Film" logo="https://epg.ovh/logo/FILMAX.png" catchup="flussonic", FilMax HD
+http://cdnx1.plusx.tv:4000/filmaxhd/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="ViDoc TV" group="Film" logo="http://epg.ovh/logo/ViDoc+TV.png" catchup="flussonic", ViDoc TV
+http://cdnx1.plusx.tv:4000/redtop/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1326" name="Cinemax" group="Film" logo="http://logo.plusx.tv/logo/Cinemax%20HD.png" catchup="flussonic", Cinemax HD
+http://cdnx1.plusx.tv:4000/287/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1547" name="Cinemax 2" group="Film" logo="http://logo.plusx.tv/logo/Cinemax%202%20HD.png" catchup="flussonic", Cinemax 2 HD
+http://cdnx1.plusx.tv:4000/288/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1191" name="Comedy Central Polska" group="Rozrywka" logo="http://logo.plusx.tv/logo/Comedy%20Central%20HD.png" catchup="flussonic", Comedy Central HD
+http://cdnx1.plusx.tv:4000/286/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1189" name="Crime and Investigation" group="Dokument" logo="http://logo.plusx.tv/logo/CI%20Polsat.png" catchup="flussonic", CI Polsat HD
+http://cdnx1.plusx.tv:4000/285/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="60" name="Discovery Turbo Xtra" group="Dokument" logo="http://logo.plusx.tv/logo/DTX%20HD.png" catchup="flussonic", DTX HD
+http://cdnx1.plusx.tv:4000/274/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="672" name="DOCUBOX" group="Dokument" logo="https://epg.ovh/logo/DOCUBOX.png" catchup="flussonic", DocuBox HD
+http://cdnx1.plusx.tv:4000/DocuBox.pl/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="171" name="Da Vinci Learning" group="Dokument" logo="http://logo.plusx.tv/logo/Da%20Vinci%20Learning.png" catchup="flussonic", Da Vinci
+http://cdnx1.plusx.tv:4000/284/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2368" name="disco-polo-music" group="Muzyka" logo="http://logo.plusx.tv/logo/Disco%20Polo%20Music.png" catchup="flussonic", Disco Polo Music
+http://cdnx1.plusx.tv:4000/283/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="57" name="Discovery" group="Dokument" logo="http://logo.plusx.tv/logo/Discovery%20Channel%20HD.png" catchup="flussonic", Discovery Channel HD
+http://cdnx1.plusx.tv:4000/282/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3189" name="Discovery Historia" group="Dokument" logo="http://logo.plusx.tv/logo/Discovery%20Historia.png" catchup="flussonic", Discovery Historia
+http://cdnx1.plusx.tv:4000/281/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3190" name="Discovery Life" group="Dokument" logo="http://logo.plusx.tv/logo/Discovery%20Life.png" catchup="flussonic", Discovery Life HD
+http://cdnx1.plusx.tv:4000/280/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="58" name="Discovery Science" group="Dokument" logo="http://logo.plusx.tv/logo/Discovery%20Science%20HD.png" catchup="flussonic", Discovery Science HD
+http://cdnx1.plusx.tv:4000/279/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="19" name="Disney Channel" group="Dla Dzieci" logo="http://logo.plusx.tv/logo/Disney%20Channel%20HD.png" catchup="flussonic", Disney Channel HD
+http://cdnx1.plusx.tv:4000/278/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1197" name="Disney Jr" group="Dla Dzieci" logo="http://logo.plusx.tv/logo/Disney+Junior.png" catchup="flussonic", Disney Junior
+http://cdnx1.plusx.tv:4000/277/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1198" name="Disney XD" group="Dla Dzieci" logo="http://logo.plusx.tv/logo/Disney+XD.png" catchup="flussonic", Disney XD
+http://cdnx1.plusx.tv:4000/276/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="513" name="Duck TV" group="Dla Dzieci" logo="https://epg.ovh/logo/Duck+TV.png" catchup="flussonic", Duck TV
+http://cdnx1.plusx.tv:4000/duck/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4834" name="DuckTV Plus" group="Dla Dzieci" logo="https://epg.ovh/logo/DuckTV+Plus.png" catchup="flussonic", DuckTV Plus HD
+http://cdnx1.plusx.tv:4000/ducktv-plus/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2709" name="TeenNick" group="Dla Dzieci" logo="https://epg.ovh/logo/TeenNick.png" catchup="flussonic", TeenNick
+http://cdnx1.plusx.tv:4000/325jun/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Domo TV" group="Rozrywka" logo="http://epg.ovh/logo/Canal%2b+Domo.png" catchup="flussonic", Canal+ Domo HD
+http://cdnx1.plusx.tv:4000/275/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3280" name="Dla Ciebie TV" group="Rozrywka" logo="http://epg.ovh/logo/Dla+Ciebie+TV.png" catchup="flussonic", Dla Ciebie TV
+http://cdnx1.plusx.tv:4000/liga51/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1188" name="E! Entertainment" group="Rozrywka" logo="http://logo.plusx.tv/logo/E!%20Entertainment.png" catchup="flussonic", E! Entertainment HD
+http://cdnx1.plusx.tv:4000/273/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3194" name="Eleven Sports 1 HD" group="4k" logo="http://epg.ovh/logo/Eleven+Sports+4K.png" catchup="flussonic", Eleven Sports 1 4K
+http://cdnx1.plusx.tv:4000/325es4k/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3194" name="Eleven Sports 1 HD" group="Sport" logo="http://logo.plusx.tv/logo/Eleven%20Sports%201.png" catchup="flussonic", Eleven Sports 1 HD
+http://cdnx1.plusx.tv:4000/271/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3196" name="Eleven Sports 2 HD" group="Sport" logo="http://logo.plusx.tv/logo/Eleven%20Sports%202.png" catchup="flussonic", Eleven Sports 2 HD
+http://cdnx1.plusx.tv:4000/270/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3195" name="Eleven Sports 3 HD" group="Sport" logo="http://logo.plusx.tv/logo/Eleven%20Sports%203.png" catchup="flussonic", Eleven Sports 3 HD
+http://cdnx1.plusx.tv:4000/269/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3657" name="Eleven Sports 4 HD" group="Sport" logo="http://logo.plusx.tv/logo/Eleven%20Sports%204.png" catchup="flussonic", Eleven Sports 4 HD
+http://cdnx1.plusx.tv:4000/272/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Xtreme TV" group="Sport" logo="https://epg.ovh/logo/Xtreme+TV.png" catchup="flussonic", Xtremetv HD
+http://cdnx1.plusx.tv:4000/xtreamtv/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3658" name="Be1 Alt" group="Rozrywka" logo="http://logo.plusx.tv/logo/Epic%20Drama.png" catchup="flussonic", Epic Drama HD
+http://cdnx1.plusx.tv:4000/268/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3658" name="EPIC Drama HD" group="Muzyka" logo="http://logo.plusx.tv/logo/Eska%20TV.png" catchup="flussonic", Eska TV
+http://cdnx1.plusx.tv:4000/267/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4391" name="Eska TV Extra" group="Muzyka" logo="http://logo.plusx.tv/logo/Eska+TV+Extra.png" catchup="flussonic", Eska TV Extra
+http://cdnx1.plusx.tv:4000/265/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1242" name="EskaROCK TV" group="Muzyka" logo="http://logo.plusx.tv/logo/Eska+Rock+TV.png" catchup="flussonic", Eska Rock TV
+http://cdnx1.plusx.tv:4000/266/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="82" name="Eurosport" group="Sport" logo="http://logo.plusx.tv/logo/Eurosport%201%20HD.png" catchup="flussonic", Eurosport 1 HD
+http://cdnx1.plusx.tv:4000/264/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="83" name="Eurosport 2" group="Sport" logo="http://logo.plusx.tv/logo/Eurosport%202%20HD.png" catchup="flussonic", Eurosport 2 HD
+http://cdnx1.plusx.tv:4000/263/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="156" name="Extreme Sports" group="Sport" logo="http://logo.plusx.tv/logo/Extreme%20Sports%20HD.png" catchup="flussonic", Extreme Sports HD
+http://cdnx1.plusx.tv:4000/262/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1564" name="Sport Klub" group="Sport" logo="http://logo.plusx.tv/logo/Sportklub.png" catchup="flussonic", SportKlub HD
+http://cdnx1.plusx.tv:4000/175/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3198" name="FightKlub" group="Sport" logo="http://logo.plusx.tv/logo/FightKlub%20HD.png" catchup="flussonic", FightKlub HD
+http://cdnx1.plusx.tv:4000/260/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4367" name="FightBox" group="Sport" logo="http://logo.plusx.tv/logo/FightBox%20HD.png" catchup="flussonic", FightBox HD
+http://cdnx1.plusx.tv:4000/261/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Novelas+1" group="Film" logo="http://epg.ovh/logo/Novelas%2b1.png" catchup="flussonic", Novelas+1
+http://cdnx1.plusx.tv:4000/Dizi/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3021" name="FilmBox Family" group="Film" logo="http://logo.plusx.tv/logo/Filmbox%20Family.png" catchup="flussonic", Filmbox Family
+http://cdnx1.plusx.tv:4000/256/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3187" name="FilmBox Action" group="Film" logo="http://logo.plusx.tv/logo/Filmbox%20Action.png" catchup="flussonic", Filmbox Action
+http://cdnx1.plusx.tv:4000/259/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2789" name="Filmbox Arthouse" group="Film" logo="http://logo.plusx.tv/logo/Filmbox%20Arthouse.png" catchup="flussonic", Filmbox Arthouse
+http://cdnx1.plusx.tv:4000/258/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2926" name="FilmBox Extra" group="Film" logo="http://logo.plusx.tv/logo/Filmbox%20Extra.png" catchup="flussonic", Filmbox Extra
+http://cdnx1.plusx.tv:4000/257/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2927" name="FilmBox Premium" group="Film" logo="http://logo.plusx.tv/logo/Filmbox%20Premium.png" catchup="flussonic", Filmbox Premium HD
+http://cdnx1.plusx.tv:4000/255/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2342" name="Fokus TV" group="Dokument" logo="http://logo.plusx.tv/logo/Fokus%20TV.png" catchup="flussonic", Fokus TV
+http://cdnx1.plusx.tv:4000/254/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1244" name="Food Network" group="Rozrywka" logo="http://logo.plusx.tv/logo/Food%20Network%20HD.png" catchup="flussonic", Food Network HD
+http://cdnx1.plusx.tv:4000/253/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2249" name="Fox Comedy" group="Rozrywka" logo="http://epg.ovh/logo/FX+Comedy.png" catchup="flussonic", FX Comedy HD
+http://cdnx1.plusx.tv:4000/250/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="177" name="FOX (HD)" group="Rozrywka" logo="http://epg.ovh/logo/FX.png" catchup="flussonic", FX HD
+http://cdnx1.plusx.tv:4000/249/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1389" name="Golf Channel" group="Sport" logo="http://logo.plusx.tv/logo/Golf%20Channel.png" catchup="flussonic", Golf Channel HD
+http://cdnx1.plusx.tv:4000/248/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1201" name="H2" group="Dokument" logo="http://logo.plusx.tv/logo/H2%20HD.png" catchup="flussonic", H2 HD
+http://cdnx1.plusx.tv:4000/247/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1330" name="HBO" group="Film" logo="http://logo.plusx.tv/logo/HBO%20HD.png" catchup="flussonic", HBO HD
+http://cdnx1.plusx.tv:4000/243/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="935" name="HBO 2" group="Film" logo="http://logo.plusx.tv/logo/HBO%202%20HD.png" catchup="flussonic", HBO 2 HD
+http://cdnx1.plusx.tv:4000/246/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3184" name="HBO 3" group="Film" logo="http://logo.plusx.tv/logo/HBO%203%20HD.png" catchup="flussonic", HBO 3 HD
+http://cdnx1.plusx.tv:4000/245/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1418" name="HGTV" group="Rozrywka" logo="http://logo.plusx.tv/logo/HGTV%20HD.png" catchup="flussonic", HGTV HD
+http://cdnx1.plusx.tv:4000/241/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1455" name="HISTORY" group="Dokument" logo="http://logo.plusx.tv/logo/History%20HD.png" catchup="flussonic", History HD
+http://cdnx1.plusx.tv:4000/240/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="59" name="Investigation Discovery" group="Dokument" logo="http://logo.plusx.tv/logo/ID%20HD.png" catchup="flussonic", ID HD
+http://cdnx1.plusx.tv:4000/239/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Moconomy" group="Dokument" logo="http://epg.ovh/logo/Moconomy.png" catchup="flussonic", Moconomy
+http://cdnx1.plusx.tv:4000/mc10/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2430" name="Kino Polska Muzyka" group="Muzyka" logo="http://logo.plusx.tv/logo/Kino%20Polska%20Muzyka.png" catchup="flussonic", Kino Polska Muzyka
+http://cdnx1.plusx.tv:4000/237/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2371" name="Kino Polska" group="Film" logo="http://logo.plusx.tv/logo/Kino%20Polska.png" catchup="flussonic", Kino Polska HD
+http://cdnx1.plusx.tv:4000/238/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4372" name="Kino TV" group="Film" logo="http://logo.plusx.tv/logo/Kino%20TV.png" catchup="flussonic", Kino TV
+http://cdnx1.plusx.tv:4000/236/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Kuchnia.TV" group="Rozrywka" logo="http://epg.ovh/logo/Canal%2b+Kuchnia.png" catchup="flussonic", Canal+ Kuchnia HD
+http://cdnx1.plusx.tv:4000/235/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Sportowa.TV" group="Sport" logo="http://epg.ovh/logo/Sportowa.TV.png" catchup="flussonic", Sportowa.TV
+http://cdnx1.plusx.tv:4000/Sportowa.TV/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2419" name="Motowizja TV" group="Sport" logo="http://logo.plusx.tv/logo/Motowizja%20HD.png" catchup="flussonic", Motowizja HD
+http://cdnx1.plusx.tv:4000/230/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="MixTape HD" group="Muzyka" logo="https://epg.ovh/logo/MixTape+HD.png" catchup="flussonic", MixTape HD
+http://cdnx1.plusx.tv:4000/MixTapeHD/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="986" name="Deluxe Music" group="Muzyka" logo="https://epg.ovh/logo/Deluxe+Music+HD.png" catchup="flussonic", Deluxe Music HD
+http://cdnx1.plusx.tv:4000/170/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="deejay" group="Muzyka" logo="http://epg.ovh/logo/DeeJay+HD.png" catchup="flussonic", DeeJay HD
+http://cdnx1.plusx.tv:4000/325jun1/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="237" name="MTV Live HD" group="Muzyka" logo="http://logo.plusx.tv/logo/MTV%20Live%20HD.png" catchup="flussonic", MTV Live HD
+http://cdnx1.plusx.tv:4000/229/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="5220" name="MTV 00S" group="Muzyka" logo="http://epg.ovh/logo/MTV+00S.png" catchup="flussonic", MTV 00s
+http://cdnx1.plusx.tv:4000/228/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="290" name="MTV 90s" group="Muzyka" logo="http://epg.ovh/logo/MTV+Rocks.png" catchup="flussonic", MTV 90s
+http://cdnx1.plusx.tv:4000/325mtv/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="149" name="MTV 80S" group="Muzyka" logo="http://epg.ovh/logo/MTV+80S.png" catchup="flussonic", MTV 80s
+http://cdnx1.plusx.tv:4000/123/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="289" name="MTV Hits" group="Muzyka" logo="https://epg.ovh/logo/MTV+Hits.png" catchup="flussonic", MTV Hits
+http://cdnx1.plusx.tv:4000/mtvhits/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4450" name="CLUB MTV" group="Muzyka" logo="https://epg.ovh/logo/MTV+Club.png" catchup="flussonic", MTV Club
+http://cdnx1.plusx.tv:4000/MTVcub/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3154" name="360 TUNEBOX" group="Muzyka" logo="https://epg.ovh/logo/360+TUNEBOX.png" catchup="flussonic", 360 TUNEBOX HD
+http://cdnx1.plusx.tv:4000/MTVEurope/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1973" name="MTV" group="Muzyka" logo="http://epg.ovh/logo/MTV+Polska.png" catchup="flussonic", MTV Polska HD
+http://cdnx1.plusx.tv:4000/227/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="729" name="fast-n-funbox-hd" group="Rozrywka" logo="http://epg.ovh/logo/fast-n-funbox-hd.png" catchup="flussonic", Fast&Fun Box HD
+http://cdnx1.plusx.tv:4000/funbox4k/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4392" name="vox-music-tv" group="Muzyka" logo="http://logo.plusx.tv/logo/VOX%20Music%20TV.png" catchup="flussonic", VOX Music TV
+http://cdnx1.plusx.tv:4000/123v/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Jazz HD" group="Muzyka" logo="https://epg.ovh/logo/Jazz+HD.png" catchup="flussonic", Jazz HD
+http://cdnx1.plusx.tv:4000/jazz7/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3282" name="Metro" group="Popularny" logo="http://logo.plusx.tv/logo/Metro%20TV.png" catchup="flussonic", Metro
+http://cdnx1.plusx.tv:4000/232/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2401" name="Mini Mini" group="Dla Dzieci" logo="http://logo.plusx.tv/logo/MiniMini+%20HD.png" catchup="flussonic", MiniMini+ HD
+http://cdnx1.plusx.tv:4000/231/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3627" name="TVC" group="Popularny" logo="http://epg.ovh/logo/TVC.png" catchup="flussonic", TVC
+http://cdnx1.plusx.tv:4000/214/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2254" name="Nat Geo People" group="Dokument" logo="http://logo.plusx.tv/logo/Nat%20Geo%20People%20HD.png" catchup="flussonic", Nat Geo People HD
+http://cdnx1.plusx.tv:4000/225/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="206" name="Nat Geo Wild HD" group="Dokument" logo="http://logo.plusx.tv/logo/Nat%20Geo%20Wild%20HD.png" catchup="flussonic", Nat Geo Wild HD
+http://cdnx1.plusx.tv:4000/223/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="56" name="National Geographic" group="Dokument" logo="http://logo.plusx.tv/logo/National%20Geographic%20HD.png" catchup="flussonic", National Geographic HD
+http://cdnx1.plusx.tv:4000/221/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4393" name="TOP KIDS JR" group="Dla Dzieci" logo="https://epg.ovh/logo/Junior+Music.png" catchup="flussonic", Junior Music HD
+http://cdnx1.plusx.tv:4000/juniormusic/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="322" name="Nick Jr" group="Dla Dzieci" logo="http://logo.plusx.tv/logo/Nick%20Jr.png" catchup="flussonic", Nick Jr
+http://cdnx1.plusx.tv:4000/220/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="334" name="Nickelodeon HD" group="Dla Dzieci" logo="http://logo.plusx.tv/logo/Nicktoons%20HD.png" catchup="flussonic", Nicktoons HD
+http://cdnx1.plusx.tv:4000/218/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="41" name="Nickelodeon Polska" group="Dla Dzieci" logo="http://logo.plusx.tv/logo/Nickelodeon.png" catchup="flussonic", Nickelodeon
+http://cdnx1.plusx.tv:4000/219/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3889" name="NICKMUSIC" group="Dla Dzieci" logo="https://epg.ovh/logo/NICKMUSIC.png" catchup="flussonic", NickMusic
+http://cdnx1.plusx.tv:4000/6046/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4384" name="Nuta TV" group="Muzyka" logo="http://logo.plusx.tv/logo/Nuta%20TV.png" catchup="flussonic", Nuta TV
+http://cdnx1.plusx.tv:4000/213/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Nuta Gold" group="Muzyka" logo="https://new.plusx.tv/logo100/Nuta_Gold.png" catchup="flussonic", Nuta Gold HD
+http://cdnx1.plusx.tv:4000/nutagoldhd/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3177" name="Nowa TV" group="Popularny" logo="http://logo.plusx.tv/logo/NOWA%20TV.png" catchup="flussonic", Nowa TV
+http://cdnx1.plusx.tv:4000/216/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="420" name="Novelas TV" group="Popularny" logo="http://epg.ovh/logo/Novelas%2b.png" catchup="flussonic", Novelas+
+http://cdnx1.plusx.tv:4000/2022/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1497" name="Paramount Channel HD" group="Film" logo="http://logo.plusx.tv/logo/Paramount%20Channel%20HD.png" catchup="flussonic", Paramount Channel HD
+http://cdnx1.plusx.tv:4000/212/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2417" name="Novela TV" group="Rozrywka" logo="http://93.159.131.123/netmar/insert/img/programy/novelatv.png" catchup="flussonic", Novela TV
+http://cdnx1.plusx.tv:4000/217/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3191" name="Planete" group="Dokument" logo="http://logo.plusx.tv/logo/Planete+%20HD.png" catchup="flussonic", Planete+ HD
+http://cdnx1.plusx.tv:4000/211/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2343" name="PoloTV" group="Muzyka" logo="http://logo.plusx.tv/logo/Polo%20TV.png" catchup="flussonic", Polo TV
+http://cdnx1.plusx.tv:4000/210/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4382" name="Polsat Rodzina" group="Rozrywka" logo="http://epg.ovh/logo/Polsat+Rodzina.png" catchup="flussonic", Polsat Rodzina HD
+http://cdnx1.plusx.tv:4000/197/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4381" name="Polsat Games" group="Rozrywka" logo="http://epg.ovh/logo/Polsat+Games.png" catchup="flussonic", Polsat Games HD
+http://cdnx1.plusx.tv:4000/204/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4021" name="Gametoon" group="Rozrywka" logo="https://epg.ovh/logo/Gametoon+HD.png" catchup="flussonic", Gametoon HD
+http://cdnx1.plusx.tv:4000/gametoon/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1309" name="GINX ESPORTS TV" group="Rozrywka" logo="http://epg.ovh/logo/GINX+ESPORTS+TV.png" catchup="flussonic", Ginx Esports TV HD
+http://cdnx1.plusx.tv:4000/esport1/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3260" name="Polsat 1" group="Popularny" logo="https://epg.ovh/logo/Polsat+1.png" catchup="flussonic", Polsat 1
+http://cdnx1.plusx.tv:4000/13tv1/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2374" name="Polsat 2" group="Popularny" logo="http://epg.ovh/logo/Polsat+2.png" catchup="flussonic", Polsat 2 HD
+http://cdnx1.plusx.tv:4000/208/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2378" name="Polsat Cafe" group="Rozrywka" logo="http://epg.ovh/logo/Polsat+Caf%c3%a9.png" catchup="flussonic", Polsat Cafe HD
+http://cdnx1.plusx.tv:4000/207/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3268" name="Polsat Doku" group="Dokument" logo="http://epg.ovh/logo/Polsat+Doku.png" catchup="flussonic", Polsat Doku HD
+http://cdnx1.plusx.tv:4000/206/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2370" name="Polsat Film" group="Film" logo="http://epg.ovh/logo/Polsat+Film.png" catchup="flussonic", Polsat Film HD
+http://cdnx1.plusx.tv:4000/205/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="937" name="Polsat" group="Popularny" logo="http://epg.ovh/logo/Polsat.png" catchup="flussonic", Polsat HD
+http://cdnx1.plusx.tv:4000/203/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3261" name="Polsat JimJam" group="Dla Dzieci" logo="http://logo.plusx.tv/logo/JimJam%20Polsat.png" catchup="flussonic", JimJam Polsat
+http://cdnx1.plusx.tv:4000/202/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4365" name="Polsat Music" group="Muzyka" logo="http://logo.plusx.tv/logo/Polsat%20Music%20HD.png" catchup="flussonic", Polsat Music HD
+http://cdnx1.plusx.tv:4000/201/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="446" name="News24" group="Informacje" logo="https://epg.ovh/logo/News24.png" audio-track="pol" catchup="flussonic", News24 HD
+http://cdnx1.plusx.tv:4000/news24hd/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TV echo 24" group="Informacje" logo="https://epg.ovh/logo/TV+echo+24.png" catchup="flussonic", Echo24 HD
+http://cdnx1.plusx.tv:4000/etho24/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2380" name="Polsat News 2" group="Informacje" logo="http://epg.ovh/logo/POLSAT+NEWS+2.png" catchup="flussonic", Polsat News 2
+http://cdnx1.plusx.tv:4000/200/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2367" name="Polsat News" group="Informacje" logo="http://epg.ovh/logo/Polsat+News.png" catchup="flussonic", Polsat News HD
+http://cdnx1.plusx.tv:4000/199/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2377" name="Polsat Play" group="Rozrywka" logo="http://epg.ovh/logo/Polsat+Play.png" catchup="flussonic", Polsat Play HD
+http://cdnx1.plusx.tv:4000/198/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3267" name="Polsat Romans" group="Rozrywka" logo="http://epg.ovh/logo/Polsat+Seriale.png" catchup="flussonic", Polsat Seriale HD
+http://cdnx1.plusx.tv:4000/196/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3197" name="Polsat Sport Fight" group="Sport" logo="http://epg.ovh/logo/Polsat+Sport+Fight.png" catchup="flussonic", Polsat Sport Fight HD
+http://cdnx1.plusx.tv:4000/194/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Polsat Sport 1" group="Sport" logo="http://epg.ovh/logo/Polsat+Sport+1.png" catchup="flussonic", Polsat Sport 1 HD
+http://cdnx1.plusx.tv:4000/193/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Polsat Sport 2" group="Sport" logo="http://epg.ovh/logo/Polsat+Sport+2.png" catchup="flussonic", Polsat Sport 2 HD
+http://cdnx1.plusx.tv:4000/195/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Polsat Sport 3" group="Sport" logo="http://epg.ovh/logo/Polsat+Sport+3.png" catchup="flussonic", Polsat Sport 3 HD
+http://cdnx1.plusx.tv:4000/192/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4394" name="Polsat Sport Premium 1" group="Sport" logo="http://epg.ovh/logo/Polsat+Sport+Premium+1.png" catchup="flussonic", Polsat Sport Premium 1 HD 50fps
+http://cdnx1.plusx.tv:4000/191/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4394" name="Polsat Sport Premium 1" group="Sport" logo="http://epg.ovh/logo/Polsat+Sport+Premium+1.png" catchup="flussonic", Polsat Sport Premium 1 HD
+http://cdnx1.plusx.tv:4000/301fps/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4395" name="Polsat Sport Premium 2" group="Sport" logo="http://epg.ovh/logo/Polsat+Sport+Premium+2.png" catchup="flussonic", Polsat Sport Premium 2 HD 50fps
+http://cdnx1.plusx.tv:4000/190/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4395" name="Polsat Sport Premium 2" group="Sport" logo="http://epg.ovh/logo/Polsat+Sport+Premium+2.png" catchup="flussonic", Polsat Sport Premium 2 HD
+http://cdnx1.plusx.tv:4000/302fps/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Polsat Sport Premium 3" group="Sport" logo="http://epg.ovh/logo/Polsat+Sport+Premium+3.png" catchup="flussonic", Polsat Sport Premium 3 HD
+http://cdnx1.plusx.tv:4000/189/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Polsat Sport Premium 4" group="Sport" logo="http://epg.ovh/logo/Polsat+Sport+Premium+4.png" catchup="flussonic", Polsat Sport Premium 4 HD
+http://cdnx1.plusx.tv:4000/188/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Polsat Sport Premium 5" group="Sport" logo="http://epg.ovh/logo/Polsat+Sport+Premium+5.png" catchup="flussonic", Polsat Sport Premium 5 HD
+http://cdnx1.plusx.tv:4000/187/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Polsat Sport Premium 6" group="Sport" logo="http://epg.ovh/logo/Polsat+Sport+Premium+6.png" catchup="flussonic", Polsat Sport Premium 6 HD
+http://cdnx1.plusx.tv:4000/186/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="166" name="Viasat History" group="Dokument" logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20History%20HD.png" catchup="flussonic", Polsat Viasat History HD
+http://cdnx1.plusx.tv:4000/184/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="165" name="Viasat Explorer" group="Dokument" logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Explore%20HD.png" catchup="flussonic", Polsat Viasat Explore HD
+http://cdnx1.plusx.tv:4000/185/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="172" name="Viasat Nature" group="Dokument" logo="http://logo.plusx.tv/logo/Polsat%20Viasat%20Nature%20HD.png" catchup="flussonic", Polsat Viasat Nature HD
+http://cdnx1.plusx.tv:4000/183/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3289" name="Power TV" group="Muzyka" logo="http://logo.plusx.tv/logo/Power%20TV.png" catchup="flussonic", Power TV
+http://cdnx1.plusx.tv:4000/182/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2414" name="Polonia 1" group="Popularny" logo="http://epg.ovh/logo/Polonia+1.png" catchup="flussonic", Polonia 1
+http://cdnx1.plusx.tv:4000/209/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2350" name="TV Puls 2" group="Popularny" logo="http://logo.plusx.tv/logo/Puls%202.png" catchup="flussonic", Puls 2
+http://cdnx1.plusx.tv:4000/180/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4370" name="Red Carpet TV" group="Rozrywka" logo="http://epg.ovh/logo/Red+Carpet+TV.png" catchup="flussonic", Red Carpet TV
+http://cdnx1.plusx.tv:4000/179/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2420" name="Romance TV" group="Rozrywka" logo="http://logo.plusx.tv/logo/Romance%20TV%20HD.png" catchup="flussonic", Romance TV HD
+http://cdnx1.plusx.tv:4000/178/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3186" name="SciFi" group="Film" logo="http://logo.plusx.tv/logo/Scifi%20Universal.png" catchup="flussonic", SciFi HD
+http://cdnx1.plusx.tv:4000/177/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4377" name="Stars TV" group="Muzyka" logo="http://logo.plusx.tv/logo/Stars%20TV.png" catchup="flussonic", Stars TV
+http://cdnx1.plusx.tv:4000/174/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2338" name="Stopklatka TV" group="Film" logo="http://logo.plusx.tv/logo/Stopklatka%20TV.png" catchup="flussonic", Stopklatka TV
+http://cdnx1.plusx.tv:4000/173/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3439" name="Sundance Channel HD" group="Film" logo="http://logo.plusx.tv/logo/Sundance%20TV%20HD.png" catchup="flussonic", Sundance TV HD
+http://cdnx1.plusx.tv:4000/172/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3175" name="Super Polsat" group="Popularny" logo="http://epg.ovh/logo/Super+Polsat.png" catchup="flussonic", Super Polsat HD
+http://cdnx1.plusx.tv:4000/171/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4383" name="StudioMed TV" group="Rozrywka" logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_595231.png" catchup="flussonic", StudioMed TV
+http://cdnx1.plusx.tv:4000/342/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2199" name="Teletoon+" group="Dla Dzieci" logo="http://logo.plusx.tv/logo/Teletoon+%20HD.png" catchup="flussonic", Teletoon+ HD
+http://cdnx1.plusx.tv:4000/168/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="67" name="TLC" group="Rozrywka" logo="http://logo.plusx.tv/logo/TLC%20HD.png" catchup="flussonic", TLC HD
+http://cdnx1.plusx.tv:4000/167/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="938" name="Tele 5" group="Popularny" logo="http://epg.ovh/logo/Tele+5.png" catchup="flussonic", Tele 5
+http://cdnx1.plusx.tv:4000/169/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2557" name="Warner TV" group="Film" logo="http://epg.ovh/logo/Warner+TV.png" catchup="flussonic", WB HD
+http://cdnx1.plusx.tv:4000/166/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3202" name="TVN Fabuła" group="Film" logo="http://logo.plusx.tv/logo/TVN%20Fabula%20HD.png" catchup="flussonic", TVN Fabula HD
+http://cdnx1.plusx.tv:4000/150/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Bigtime" group="Film" logo="http://epg.ovh/logo/BjgTjme.png" catchup="flussonic", BigTime HD
+http://cdnx1.plusx.tv:4000/TRTInternational/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Rakuten TV" group="Film" logo="http://epg.ovh/logo/Rakuten+TV.png" catchup="flussonic", Rakuten TV
+http://cdnx1.plusx.tv:4000/127/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Grjngo Westerny" group="Film" logo="http://epg.ovh/logo/Grjngo+Westerny.png" catchup="flussonic", Grjngo Westerny
+http://cdnx1.plusx.tv:4000/126/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1724" name="Trace Urban" group="Muzyka" logo="http://epg.ovh/logo/Trace+Urban.png" catchup="flussonic", Trace Urban
+http://cdnx1.plusx.tv:4000/tra10/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="27" name="MUSIC BOX" group="Muzyka" logo="http://epg.ovh/logo/MUSIC+BOX.png" catchup="flussonic", Music Box Polska
+http://cdnx1.plusx.tv:4000/165/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3273" name="TTV" group="Rozrywka" logo="http://logo.plusx.tv/logo/TTV%20HD.png" catchup="flussonic", TTV HD
+http://cdnx1.plusx.tv:4000/162/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Outdoor TV" group="Rozrywka" logo="http://epg.ovh/logo/Outdoor+TV.png" catchup="flussonic", Outdoor TV
+http://cdnx1.plusx.tv:4000/159/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2346" name="TV Puls" group="Popularny" logo="http://logo.plusx.tv/logo/TV%20Puls%20HD.png" catchup="flussonic", TV Puls HD
+http://cdnx1.plusx.tv:4000/158/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3178" name="TV Republika" group="Informacje" logo="http://logo.plusx.tv/logo/TV%20Republika.png" catchup="flussonic", TV Republika
+http://cdnx1.plusx.tv:4000/157/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Polsat News Polityka" group="Informacje" logo="http://epg.ovh/logo/Polsat+News+Polityka.png" catchup="flussonic", Polsat News Polityka
+http://cdnx1.plusx.tv:4000/tvpworldhd/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3357" name="TV4" group="Popularny" logo="http://epg.ovh/logo/TV+4.png" catchup="flussonic", TV 4 HD
+http://cdnx1.plusx.tv:4000/161/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="952" name="TV 6" group="Popularny" logo="http://epg.ovh/logo/TV+6.png" catchup="flussonic", TV 6 HD
+http://cdnx1.plusx.tv:4000/160/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2383" name="TVN 24" group="Informacje" logo="http://epg.ovh/logo/TVN+24.png" catchup="flussonic", TVN 24 HD
+http://cdnx1.plusx.tv:4000/153/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2385" name="TVN CNBC Biznes" group="Informacje" logo="http://logo.plusx.tv/logo/TVN%2024%20BiS%20HD.png" catchup="flussonic", TVN 24 BiS HD
+http://cdnx1.plusx.tv:4000/154/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3204" name="iTVN" group="Popularny" logo="https://epg.ovh/logo/iTVN.png" catchup="flussonic", iTVN HD
+http://cdnx1.plusx.tv:4000/abc2/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVP Kobieta" group="Popularny" logo="https://epg.ovh/logo/TVP+Kobieta.png" catchup="flussonic", TVP Kobieta HD
+http://cdnx1.plusx.tv:4000/TVPKobieta/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4399" name="iTVN extra" group="Popularny" logo="https://epg.ovh/logo/iTVN+extra.png" catchup="flussonic", iTVN Extra HD
+http://cdnx1.plusx.tv:4000/tvnextra/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2387" name="TVN Style" group="Rozrywka" logo="http://logo.plusx.tv/logo/TVN%20Style%20HD.png" catchup="flussonic", TVN Style HD
+http://cdnx1.plusx.tv:4000/147/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Kabaret TV" group="Rozrywka" logo="http://epg.ovh/logo/Kabaret+TV.png" catchup="flussonic", Kabaret TV
+http://cdnx1.plusx.tv:4000/kab10/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Pilot w Domu" group="Rozrywka" logo="http://logo.plusx.tv/logo/Pilot+w+Domu.png" catchup="flussonic", Pilot w Domu
+http://cdnx1.plusx.tv:4000/dom10/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Viasat True Crime" group="Rozrywka" logo="http://epg.ovh/logo/Viasat+True+Crime.png" catchup="flussonic", Viasat True Crime
+http://cdnx1.plusx.tv:4000/6034/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2389" name="TVN Turbo" group="Sport" logo="http://logo.plusx.tv/logo/TVN%20Turbo%20HD.png" catchup="flussonic", TVN Turbo HD
+http://cdnx1.plusx.tv:4000/145/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVP World" group="Informacje" logo="http://epg.ovh/logo/TVP+World.png" catchup="flussonic", TVP World
+http://cdnx1.plusx.tv:4000/125/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3257" name="TVP 3" group="Regionalny" logo="http://logo.plusx.tv/logo/TVP%203.png" catchup="flussonic", TVP 3 Białystok
+http://cdnx1.plusx.tv:4000/tvpbialystok/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3257" name="TVP 3" group="Regionalny" logo="http://logo.plusx.tv/logo/TVP%203.png" catchup="flussonic", TVP 3 Bydgoszcz
+http://cdnx1.plusx.tv:4000/tvpbydgoszcz/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3257" name="TVP 3" group="Regionalny" logo="http://logo.plusx.tv/logo/TVP%203.png" catchup="flussonic", TVP 3 Gdańsk
+http://cdnx1.plusx.tv:4000/tvpgdansk/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3257" name="TVP 3" group="Regionalny" logo="http://logo.plusx.tv/logo/TVP%203.png" catchup="flussonic", TVP 3 Gorzów Wielkopolski
+http://cdnx1.plusx.tv:4000/tvpgorzow/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3257" name="TVP 3" group="Regionalny" logo="http://logo.plusx.tv/logo/TVP%203.png" catchup="flussonic", TVP 3 Katowice
+http://cdnx1.plusx.tv:4000/tvpkatowice/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3257" name="TVP 3" group="Regionalny" logo="http://logo.plusx.tv/logo/TVP%203.png" catchup="flussonic", TVP 3 Kielce
+http://cdnx1.plusx.tv:4000/tvpkielce/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3257" name="TVP 3" group="Regionalny" logo="http://logo.plusx.tv/logo/TVP%203.png" catchup="flussonic", TVP 3 Kraków
+http://cdnx1.plusx.tv:4000/tvpkrakow/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3257" name="TVP 3" group="Regionalny" logo="http://logo.plusx.tv/logo/TVP%203.png" catchup="flussonic", TVP 3 Lublin
+http://cdnx1.plusx.tv:4000/tvplublin/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3257" name="TVP 3" group="Regionalny" logo="http://logo.plusx.tv/logo/TVP%203.png" catchup="flussonic", TVP 3 Łódź
+http://cdnx1.plusx.tv:4000/tvplodz/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3257" name="TVP 3" group="Regionalny" logo="http://logo.plusx.tv/logo/TVP%203.png" catchup="flussonic", TVP 3 Olsztyn
+http://cdnx1.plusx.tv:4000/tvpolsztyn/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3257" name="TVP 3" group="Regionalny" logo="http://logo.plusx.tv/logo/TVP%203.png" catchup="flussonic", TVP 3 Opole
+http://cdnx1.plusx.tv:4000/tvpopole/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3257" name="TVP 3" group="Regionalny" logo="http://logo.plusx.tv/logo/TVP%203.png" catchup="flussonic", TVP 3 Poznań
+http://cdnx1.plusx.tv:4000/tvppoznan/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3257" name="TVP 3" group="Regionalny" logo="http://logo.plusx.tv/logo/TVP%203.png" catchup="flussonic", TVP 3 Rzeszów
+http://cdnx1.plusx.tv:4000/tvprzeszow/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3257" name="TVP 3" group="Regionalny" logo="http://logo.plusx.tv/logo/TVP%203.png" catchup="flussonic", TVP 3 Szczecin
+http://cdnx1.plusx.tv:4000/tvpszczecin/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3257" name="TVP 3" group="Regionalny" logo="http://logo.plusx.tv/logo/TVP%203.png" catchup="flussonic", TVP 3 Wrocław
+http://cdnx1.plusx.tv:4000/tvpwroclaw/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVN W Domu Online" group="TVN Online" logo="http://logo.plusx.tv/logo/55090765.png" catchup="flussonic", TVN w Domu
+http://cdnx1.plusx.tv:4000/tvn10/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVN Moto Online" group="TVN Online" logo="http://logo.plusx.tv/logo/55089488.png" catchup="flussonic", TVN Moto
+http://cdnx1.plusx.tv:4000/tvnm10/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVN Kultowe Seriale Online" group="TVN Online" logo="http://logo.plusx.tv/logo/55089347.png" catchup="flussonic", TVN Kultowe Seriale
+http://cdnx1.plusx.tv:4000/tvns10/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVN Życie Jak w Bajce Online" group="TVN Online" logo="http://logo.plusx.tv/logo/55090792.png" catchup="flussonic", TVN Życie Jak w Bajce
+http://cdnx1.plusx.tv:4000/tvnb10/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVN Kryminalnie Online" group="TVN Online" logo="http://epg.ovh/logo/TVN+Kryminalnie+Online.png" catchup="flussonic", TVN Kryminalnie
+http://cdnx1.plusx.tv:4000/fastkryminalnie/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVN Momenty Prawdy Online" group="TVN Online" logo="http://epg.ovh/logo/TVN+Momenty+Prawdy+Online.png" catchup="flussonic", TVN Momenty Prawdy
+http://cdnx1.plusx.tv:4000/fastmomentyprawdy/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVN Prawo i Życie Online" group="TVN Online" logo="http://epg.ovh/logo/TVN+Prawo+i+%c5%bbycie+Online.png" catchup="flussonic", TVN Prawo i Życie
+http://cdnx1.plusx.tv:4000/fastprawoizycie/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVN Rajska Miłość Online" group="TVN Online" logo="http://epg.ovh/logo/TVN+Rajska+Mi%c5%82o%c5%9b%c4%87+Online.png" catchup="flussonic", TVN Rajska Miłość
+http://cdnx1.plusx.tv:4000/fastrajskamilosc/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVN Rewolucje w Kuchni Online" group="TVN Online" logo="http://epg.ovh/logo/TVN+Rewolucje+w+Kuchni+Online.png" catchup="flussonic", TVN Rewolucje w Kuchni
+http://cdnx1.plusx.tv:4000/fastrewolucjewkuchni/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVN Seriale o Kobietach Online" group="TVN Online" logo="http://epg.ovh/logo/TVN+Seriale+o+Kobietach+Online.png" catchup="flussonic", TVN Seriale o Kobietach
+http://cdnx1.plusx.tv:4000/fastserialeokobietach/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVN Szkoła Życia Online" group="TVN Online" logo="http://epg.ovh/logo/TVN+Szko%c5%82a+%c5%bbycia+Online.png" catchup="flussonic", TVN Szkoła Życia
+http://cdnx1.plusx.tv:4000/fastszkolazycia/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVN Szpitalne Historie Online" group="TVN Online" logo="http://epg.ovh/logo/TVN+Szpitalne+Historie+Online.png" catchup="flussonic", TVN Szpitalne Historie
+http://cdnx1.plusx.tv:4000/fastszpitalnehistorie/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVN Talk Show Online" group="TVN Online" logo="http://epg.ovh/logo/TVN+Talk+Show+Online.png" catchup="flussonic", TVN Talk Show
+http://cdnx1.plusx.tv:4000/fasttalkshow/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVN Telenowele Online" group="TVN Online" logo="http://epg.ovh/logo/TVN+Telenowele+Online.png" catchup="flussonic", TVN Telenowele
+http://cdnx1.plusx.tv:4000/fasttelenowele/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVN Usterka Online" group="TVN Online" logo="http://epg.ovh/logo/TVN+Usterka+Online.png" catchup="flussonic", TVN Usterka
+http://cdnx1.plusx.tv:4000/fastusterka/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVPDokument.pl" group="Popularny" logo="https://epg.ovh/logo/TVP+Dokument.png" catchup="flussonic", TVP Dokument HD
+http://cdnx1.plusx.tv:4000/1901/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2332" name="TVP-ABC" group="Dla Dzieci" logo="http://logo.plusx.tv/logo/TVP%20ABC.png" catchup="flussonic", TVP ABC
+http://cdnx1.plusx.tv:4000/151/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVP ABC 2" group="Dla Dzieci" logo="https://epg.ovh/logo/TVP+ABC+2.png" catchup="flussonic", TVP ABC 2
+http://cdnx1.plusx.tv:4000/tvpabc25/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVP Alfa" group="Dla Dzieci" logo="http://epg.ovh/logo/Alfa+TVP.png" catchup="flussonic", TVP Alfa
+http://cdnx1.plusx.tv:4000/tvpalfa25/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4679" name="TOP KIDS" group="Dla Dzieci" logo="https://epg.ovh/logo/TOP+KIDS.png" catchup="flussonic", Top Kids HD
+http://cdnx1.plusx.tv:4000/TopKidsJr/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2333" name="TVP Historia" group="Popularny" logo="http://logo.plusx.tv/logo/TVP%20Historia.png" catchup="flussonic", TVP Historia
+http://cdnx1.plusx.tv:4000/140/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVP Historia 2" group="Popularny" logo="https://epg.ovh/logo/TVP+Historia+2.png" catchup="flussonic", TVP Historia2
+http://cdnx1.plusx.tv:4000/history2/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1522" name="TVP-Info" group="Informacje" logo="http://logo.plusx.tv/logo/TVP%20Info.png" catchup="flussonic", TVP Info HD
+http://cdnx1.plusx.tv:4000/139/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2334" name="TVP-Kultura" group="Popularny" logo="http://logo.plusx.tv/logo/TVP%20Kultura.png" catchup="flussonic", TVP Kultura
+http://cdnx1.plusx.tv:4000/138/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVP Kultura 2" group="Popularny" logo="https://epg.ovh/logo/TVP+Kultura+2.png" catchup="flussonic", TVP Kultura 2
+http://cdnx1.plusx.tv:4000/tvpkul25/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="954" name="TVP Regionalna" group="Popularny" logo="http://logo.plusx.tv/logo/TVP%20Polonia.png" catchup="flussonic", TVP Polonia
+http://cdnx1.plusx.tv:4000/137/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2351" name="TVP Rozrywka" group="Popularny" logo="http://logo.plusx.tv/logo/TVP%20Rozrywka.png" catchup="flussonic", TVP Rozrywka
+http://cdnx1.plusx.tv:4000/136/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVP Nauka" group="Dokument" logo="https://epg.ovh/logo/TVP+Nauka.png" catchup="flussonic", TVP Nauka
+http://cdnx1.plusx.tv:4000/tvpnauka25/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2337" name="TVP Seriale" group="Popularny" logo="http://logo.plusx.tv/logo/TVP%20Seriale.png" catchup="flussonic", TVP Seriale
+http://cdnx1.plusx.tv:4000/135/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TV TORUŃ" group="Popularny" logo="https://epg.ovh/logo/TV+TORUN.png" catchup="flussonic", Toruń TV HD
+http://cdnx1.plusx.tv:4000/tvporld/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TBN Polska" group="Rozrywka" logo="https://epg.ovh/logo/TBN+Polska+HD.png" catchup="flussonic", TBN Polska HD
+http://cdnx1.plusx.tv:4000/100g/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4398" name="TWOJA TV" group="Rozrywka" logo="https://epg.ovh/logo/TWOJA+TV.png" catchup="flussonic", Twoja.TV HD
+http://cdnx1.plusx.tv:4000/101g/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TV Regio" group="Rozrywka" logo="https://epg.ovh/logo/TV+Regio.png" catchup="flussonic", TV Regio HD
+http://cdnx1.plusx.tv:4000/102g/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4023" name="TVT" group="Popularny" logo="https://epg.ovh/logo/TVT.png" catchup="flussonic", TVT HD
+http://cdnx1.plusx.tv:4000/tvt/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TVP Wilno" group="Popularny" logo="http://epg.ovh/logo/TVP+Wilno.png" catchup="flussonic", TVP Wilno HD
+http://cdnx1.plusx.tv:4000/2021/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2335" name="TVP Sport" group="Sport" logo="http://logo.plusx.tv/logo/TVP%20Sport%20HD.png" catchup="flussonic", TVP Sport HD
+http://cdnx1.plusx.tv:4000/134/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="FAN Klub" group="Sport" logo="http://logo.plusx.tv/logo/852.png" catchup="flussonic", FAN Klub
+http://cdnx1.plusx.tv:4000/Heritage/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Canal+ Live 1" group="Sport" logo="http://logo.plusx.tv/logo/CANAL_Live.png" catchup="flussonic", Canal+ Live 1 HD
+http://cdnx1.plusx.tv:4000/6036/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Canal+ Live 2" group="Sport" logo="http://logo.plusx.tv/logo/CANAL_Live.png" catchup="flussonic", Canal+ Live 2 HD
+http://cdnx1.plusx.tv:4000/6037/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Canal+ Live 3" group="Sport" logo="http://logo.plusx.tv/logo/CANAL_Live.png" catchup="flussonic", Canal+ Live 3 HD
+http://cdnx1.plusx.tv:4000/6038/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Canal+ Live 4" group="Sport" logo="http://logo.plusx.tv/logo/CANAL_Live.png" catchup="flussonic", Canal+ Live 4 HD
+http://cdnx1.plusx.tv:4000/6039/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Canal+ Live 5" group="Sport" logo="http://logo.plusx.tv/logo/CANAL_Live.png" catchup="flussonic", Canal+ Live 5 HD
+http://cdnx1.plusx.tv:4000/liga50/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2339" name="TV TRWAM" group="Popularny" logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/082012/tv_trwam.png?itok=8V3f5AsH" catchup="flussonic", TV Trwam
+http://cdnx1.plusx.tv:4000/338/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="282" name="MEZOO LIVE" group="Muzyka" logo="http://epg.ovh/logo/MEZZO+LIVE.png" catchup="flussonic", Mezzo Live HD
+http://cdnx1.plusx.tv:4000/337/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2422" name="TVS (HD)" group="Popularny" logo="http://logo.plusx.tv/logo/TVS.png" catchup="flussonic", TVS
+http://cdnx1.plusx.tv:4000/132/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="54" name="Travel Channel" group="Rozrywka" logo="http://logo.plusx.tv/logo/Travel%20Channel%20HD.png" catchup="flussonic", Travel Channel HD
+http://cdnx1.plusx.tv:4000/163/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3176" name="WP" group="Popularny" logo="http://logo.plusx.tv/logo/WP.png" catchup="flussonic", WP
+http://cdnx1.plusx.tv:4000/121/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4371" name="wPolsce.pl" group="Informacje" logo="http://logo.plusx.tv/logo/wPolsce.pl.png" catchup="flussonic", wPolsce.pl
+http://cdnx1.plusx.tv:4000/120/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Wydarzenia 24" group="Informacje" logo="https://epg.ovh/logo/Wydarzenia+24.png" catchup="flussonic", Wydarzenia 24
+http://cdnx1.plusx.tv:4000/10/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4364" name="WTK" group="Informacje" logo="http://logo.plusx.tv/logo/wtk.png" catchup="flussonic", WTK
+http://cdnx1.plusx.tv:4000/wtk10/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="ProArt" group="Dokument" logo="http://epg.ovh/logo/ProArt.png" catchup="flussonic", ProArt HD
+http://cdnx1.plusx.tv:4000/pat10/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2415" name="Water Planet" group="Dokument" logo="http://epg.ovh/logo/WATER+PLANET.png" catchup="flussonic", Water Planet
+http://cdnx1.plusx.tv:4000/122/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Zoom TV" group="Popularny" logo="http://logo.plusx.tv/logo/Zoom%20TV.png" catchup="flussonic", Zoom TV
+http://cdnx1.plusx.tv:4000/118/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4416" name="Canalplus4K.pl" group="4k" logo="https://epg.ovh/logo/Canal++4K+Ultra+HD.png" catchup="flussonic", CANAL+ 4K Ultra HD
+http://cdnx1.plusx.tv:4000/Filmax/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Love Nature 4K" group="4k" logo="https://epg.ovh/logo/Love+Nature+4K.png" catchup="flussonic", Love Nature 4K
+http://cdnx1.plusx.tv:4000/LoveNature/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="vsportuhd" group="4k" logo="http://logo.plusx.tv/logo/50105-3.png" catchup="flussonic", Vsport UHD
+http://cdnx1.plusx.tv:4000/nowsport/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Museum UHD" group="4k" logo="https://epg.ovh/logo/Museum+4K+PL.png" catchup="flussonic", Museum 4K
+http://cdnx1.plusx.tv:4000/Museum/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="239" name="MYZEN.TV" group="4k" logo="https://epg.ovh/logo/MyZen+4K.png" catchup="flussonic", MyZen 4K
+http://cdnx1.plusx.tv:4000/myZen/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="74" name="InUltra" group="4k" logo="https://epg.ovh/logo/InsightUHD.eu.png" catchup="flussonic", Insight UHD
+http://cdnx1.plusx.tv:4000/InsightUHD11/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4441" name="Travelxp 4K" group="4k" logo="https://epg.ovh/logo/Travelxp+4K.png" catchup="flussonic", Travelxp 4K
+http://cdnx1.plusx.tv:4000/Travelxp/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="FILMAX" group="4k" logo="https://epg.ovh/logo/FILMAX.png" catchup="flussonic", FilMax 4k
+http://cdnx1.plusx.tv:4000/filmax4k/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4020" name="Fast FunBox" group="4k" logo="http://logo.plusx.tv/logo/FunBoxUHD-logo.png" catchup="flussonic", FunBox UHD
+http://cdnx1.plusx.tv:4000/funboxuhd/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="ULTRA TV 4K" group="4k" logo="https://epg.ovh/logo/Ultra+TV.png" catchup="flussonic", Ultra TV 4k
+http://cdnx1.plusx.tv:4000/ultrahd/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="NASA UHD" group="4k" logo="https://epg.ovh/logo/NASA+UHD.png" catchup="flussonic", Nasa 4K
+http://cdnx1.plusx.tv:4000/NASA/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4416" name="CANAL+ UHD" group="4k" logo="http://logo.plusx.tv/logo/Logo_chaine_Canal_4K-UHD.png" catchup="flussonic", CANAL+ UHD
+http://cdnx1.plusx.tv:4000/316/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="FashionTV4K.eu" group="4k" logo="https://epg.ovh/logo/Fashion+TV+HD%20.png" catchup="flussonic", FashionTV 4K
+http://cdnx1.plusx.tv:4000/FashionTV4K/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4024" name="Eurosport4K" group="Paris 2024 Olympics" logo="https://epg.ovh/logo/Eurosport+4K.png" catchup="flussonic", Eurosport 4K
+http://cdnx1.plusx.tv:4000/C4K360/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Eurosport 3 HD" group="Paris 2024 Olympics" logo="https://epg.ovh/logo/Eurosport+3+HD.png" catchup="flussonic", Eurosport 3 HD
+http://cdnx1.plusx.tv:4000/euro3/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Eurosport 4 HD" group="Paris 2024 Olympics" logo="https://epg.ovh/logo/Eurosport+4+HD.png" catchup="flussonic", Eurosport 4 HD
+http://cdnx1.plusx.tv:4000/euro4/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Eurosport 5 HD" group="Paris 2024 Olympics" logo="https://epg.ovh/logo/Eurosport+5+HD.png" catchup="flussonic", Eurosport 5 HD
+http://cdnx1.plusx.tv:4000/euro5/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Eurosport 6 HD" group="Paris 2024 Olympics" logo="http://logo.plusx.tv/logo/extra6.png" catchup="flussonic", Eurosport 6 HD
+http://cdnx1.plusx.tv:4000/euro6/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Eurosport 7 HD" group="Paris 2024 Olympics" logo="http://logo.plusx.tv/logo/extra7.png" catchup="flussonic", Eurosport 7 HD
+http://cdnx1.plusx.tv:4000/euro7/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Eurosport 8 HD" group="Paris 2024 Olympics" logo="http://logo.plusx.tv/logo/extra8.png" catchup="flussonic", Eurosport 8 HD
+http://cdnx1.plusx.tv:4000/euro8/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Eurosport 9 HD" group="Paris 2024 Olympics" logo="http://logo.plusx.tv/logo/extra9.png" catchup="flussonic", Eurosport 9 HD
+http://cdnx1.plusx.tv:4000/euro9/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Eurosport Extra 1 HD" group="Eurosport Extra" logo="http://logo.plusx.tv/logo/extra1.png" catchup="flussonic", Eurosport Extra 1 HD
+http://cdnx1.plusx.tv:4000/euroex1/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Eurosport Extra 2 HD" group="Eurosport Extra" logo="http://logo.plusx.tv/logo/extra22.png" catchup="flussonic", Eurosport Extra 2 HD
+http://cdnx1.plusx.tv:4000/euroex2/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Eurosport Extra 3 HD" group="Eurosport Extra" logo="https://epg.ovh/logo/Eurosport+3+HD.png" catchup="flussonic", Eurosport Extra 3 HD
+http://cdnx1.plusx.tv:4000/euroex3/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Eurosport Extra 4 HD" group="Eurosport Extra" logo="https://epg.ovh/logo/Eurosport+4+HD.png" catchup="flussonic", Eurosport Extra 4 HD
+http://cdnx1.plusx.tv:4000/euroex4/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Eurosport Extra 5 HD" group="Eurosport Extra" logo="https://epg.ovh/logo/Eurosport+5+HD.png" catchup="flussonic", Eurosport Extra 5 HD
+http://cdnx1.plusx.tv:4000/euroex5/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Eurosport Extra 6 HD" group="Eurosport Extra" logo="http://logo.plusx.tv/logo/extra6.png" catchup="flussonic", Eurosport Extra 6 HD
+http://cdnx1.plusx.tv:4000/euroex6/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Eurosport Extra 7 HD" group="Eurosport Extra" logo="http://logo.plusx.tv/logo/extra7.png" catchup="flussonic", Eurosport Extra 7 HD
+http://cdnx1.plusx.tv:4000/euroex7/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Eurosport Extra 8 HD" group="Eurosport Extra" logo="http://logo.plusx.tv/logo/extra8.png" catchup="flussonic", Eurosport Extra 8 HD
+http://cdnx1.plusx.tv:4000/euroex8/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Eurosport Extra 9 HD" group="Eurosport Extra" logo="http://logo.plusx.tv/logo/extra9.png" catchup="flussonic", Eurosport Extra 9 HD
+http://cdnx1.plusx.tv:4000/euroex9/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Viaplay-PL 1" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 1 HD
+http://cdnx1.plusx.tv:4000/6004/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 2 HD
+http://cdnx1.plusx.tv:4000/6005/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 3 HD
+http://cdnx1.plusx.tv:4000/6006/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 4 HD
+http://cdnx1.plusx.tv:4000/6007/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 5 HD
+http://cdnx1.plusx.tv:4000/6008/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 6 HD
+http://cdnx1.plusx.tv:4000/6009/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 7 HD
+http://cdnx1.plusx.tv:4000/6010/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 8 HD
+http://cdnx1.plusx.tv:4000/6011/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 9 HD
+http://cdnx1.plusx.tv:4000/6012/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 10 HD
+http://cdnx1.plusx.tv:4000/6013/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 11 HD
+http://cdnx1.plusx.tv:4000/6014/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 12 HD
+http://cdnx1.plusx.tv:4000/6015/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 13 HD
+http://cdnx1.plusx.tv:4000/6017/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 14 HD
+http://cdnx1.plusx.tv:4000/6018/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 15 HD
+http://cdnx1.plusx.tv:4000/6019/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 16 HD
+http://cdnx1.plusx.tv:4000/6020/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 17 HD
+http://cdnx1.plusx.tv:4000/6021/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 18 HD
+http://cdnx1.plusx.tv:4000/6022/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 19 HD
+http://cdnx1.plusx.tv:4000/6023/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 20 HD
+http://cdnx1.plusx.tv:4000/6024/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 21 HD
+http://cdnx1.plusx.tv:4000/6025/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 22 HD
+http://cdnx1.plusx.tv:4000/6026/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 23 HD
+http://cdnx1.plusx.tv:4000/6027/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 24 HD
+http://cdnx1.plusx.tv:4000/6028/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 25 HD
+http://cdnx1.plusx.tv:4000/6029/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 26 HD
+http://cdnx1.plusx.tv:4000/6030/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 27 HD
+http://cdnx1.plusx.tv:4000/6031/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 28 HD
+http://cdnx1.plusx.tv:4000/6032/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="viaplay" group="Viaplay" logo="https://epg.ovh/logo/Viaplay.png" catchup="flussonic", ViaPlay 29 HD
+http://cdnx1.plusx.tv:4000/6033/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Sky Sport F1" group="MIX (DE)" logo="http://epg.ovh/logo/Sky+Sport+F1.png" catchup="flussonic", Sky Sport F1
+http://cdnx1.plusx.tv:4000/6042/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Sky Sport Premier League" group="MIX (DE)" logo="http://epg.ovh/logo/Sky+Sport+Premier+League.png" catchup="flussonic", Sky Sport Premier League
+http://cdnx1.plusx.tv:4000/6044/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Sky Sport Golf" group="MIX (DE)" logo="http://epg.ovh/logo/Sky+Sport+Golf.png" catchup="flussonic", Sky Sport Golf
+http://cdnx1.plusx.tv:4000/6045/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Sky Sport Bundesliga" group="MIX (DE)" logo="http://epg.ovh/logo/Sky+Sport+Bundesliga.png" catchup="flussonic", Sky Sport Bundesliga
+http://cdnx1.plusx.tv:4000/6047/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Sky Sport Top Event" group="MIX (DE)" logo="http://epg.ovh/logo/Sky+Sport+Top+Event.png" catchup="flussonic", Sky Sport Top Event
+http://cdnx1.plusx.tv:4000/6048/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Sky Sport MIX" group="MIX (DE)" logo="http://epg.ovh/logo/Sky+Sport+MIX.png" catchup="flussonic", Sky Sport MIX
+http://cdnx1.plusx.tv:4000/6050/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Sky Sport Tennis" group="MIX (DE)" logo="http://epg.ovh/logo/Sky+Sport+Tennis.png" catchup="flussonic", Sky Sport Tennis
+http://cdnx1.plusx.tv:4000/6035/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Canal+ 360 sport" group="MIX (FR)" logo="http://epg.ovh/logo/Canal%2b+360+sport.png" catchup="flussonic", Canal+ 360 sport
+http://cdnx1.plusx.tv:4000/6049/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1591" name="Bein Sports 1" group="MIX (FR)" logo="http://epg.ovh/logo/Bein+Sports+1.png" catchup="flussonic", Bein Sports 1
+http://cdnx1.plusx.tv:4000/6043/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1592" name="Bein Sports 2" group="MIX (FR)" logo="http://epg.ovh/logo/Bein+Sports+2.png" catchup="flussonic", Bein Sports 2
+http://cdnx1.plusx.tv:4000/6041/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1593" name="Bein Sports 3" group="MIX (FR)" logo="http://epg.ovh/logo/Bein+Sports+3.png" catchup="flussonic", Bein Sports 3
+http://cdnx1.plusx.tv:4000/6040/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Canal+ Foot" group="MIX (FR)" logo="http://epg.ovh/logo/Canal%2b+Foot.png" catchup="flussonic", Canal+ Foot
+http://cdnx1.plusx.tv:4000/90881/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Canal+ Top 14 Rugby" group="MIX (FR)" logo="http://epg.ovh/logo/Canal%2b+Top+14+Rugby.png" catchup="flussonic", Canal+ Top 14 Rugby
+http://cdnx1.plusx.tv:4000/90882/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Canal+ Sport FR" group="MIX (FR)" logo="http://epg.ovh/logo/Canal%2b+Sport+FR.png" catchup="flussonic", Canal+ Sport FR
+http://cdnx1.plusx.tv:4000/90883/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Canal+ MOTOGP" group="MIX (FR)" logo="http://logo.plusx.tv/logo/Canal_MotoGP.png" catchup="flussonic", Canal+ MOTOGP
+http://cdnx1.plusx.tv:4000/CanalMOTOGP/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3514" name="Premier Sports 1" group="MIX (GB)" logo="http://epg.ovh/logo/Premier+Sports+1.png" catchup="flussonic", Premier Sports 1
+http://cdnx1.plusx.tv:4000/124/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3513" name="Premier Sports 2" group="MIX (GB)" logo="http://epg.ovh/logo/Premier+Sports+2.png" catchup="flussonic", Premier Sports 2
+http://cdnx1.plusx.tv:4000/xt123/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4443" name="Sky Sports Premier League" group="MIX (GB)" logo="https://seeklogo.com/images/S/sky-sports-logo-32267082CE-seeklogo.com.png" catchup="flussonic", Sky Sports Premier League
+http://cdnx1.plusx.tv:4000/Sky-Sports-Premier-League/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4461" name="Sky Sports Arena" group="MIX (GB)" logo="https://seeklogo.com/images/S/sky-sports-logo-32267082CE-seeklogo.com.png" catchup="flussonic", Sky Sports Arena
+http://cdnx1.plusx.tv:4000/Sky-Sports-Arena/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4445" name="Sky Sports Cricket" group="MIX (GB)" logo="https://seeklogo.com/images/S/sky-sports-logo-32267082CE-seeklogo.com.png" catchup="flussonic", Sky Sports Cricket
+http://cdnx1.plusx.tv:4000/Sky-Sports-Cricket/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1177" name="Sky Sports F1" group="MIX (GB)" logo="https://seeklogo.com/images/S/sky-sports-logo-32267082CE-seeklogo.com.png" catchup="flussonic", Sky Sports F1
+http://cdnx1.plusx.tv:4000/Sky-Sports-F1/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4460" name="Sky Sports Football" group="MIX (GB)" logo="https://seeklogo.com/images/S/sky-sports-logo-32267082CE-seeklogo.com.png" catchup="flussonic", Sky Sports Football
+http://cdnx1.plusx.tv:4000/Sky-Sports-Football/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4447" name="Sky Sports Golf" group="MIX (GB)" logo="https://seeklogo.com/images/S/sky-sports-logo-32267082CE-seeklogo.com.png" catchup="flussonic", Sky Sports Golf
+http://cdnx1.plusx.tv:4000/Sky-Sports-Golf/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4444" name="Sky Sports Main Event" group="MIX (GB)" logo="https://seeklogo.com/images/S/sky-sports-logo-32267082CE-seeklogo.com.png" catchup="flussonic", Sky Sports Main Event
+http://cdnx1.plusx.tv:4000/Sky-Sports-Main-Event/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3540" name="Sky Sports Mix" group="MIX (GB)" logo="https://seeklogo.com/images/S/sky-sports-logo-32267082CE-seeklogo.com.png" catchup="flussonic", Sky Sports Mix
+http://cdnx1.plusx.tv:4000/Sky-Sports-Mix/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="1178" name="Sky Sports News" group="MIX (GB)" logo="https://seeklogo.com/images/S/sky-sports-logo-32267082CE-seeklogo.com.png" catchup="flussonic", Sky Sports News
+http://cdnx1.plusx.tv:4000/Sky-Sports-News/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="4448" name="Sky Sports Action" group="MIX (GB)" logo="https://seeklogo.com/images/S/sky-sports-logo-32267082CE-seeklogo.com.png" catchup="flussonic", Sky Sports Action
+http://cdnx1.plusx.tv:4000/Sky-Sports-Action/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="3469" name="Sky Sports Racing" group="MIX (GB)" logo="https://seeklogo.com/images/S/sky-sports-logo-32267082CE-seeklogo.com.png" catchup="flussonic", Sky Sports Racing
+http://cdnx1.plusx.tv:4000/Sky-Sports-Racing/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Sky Sports Tennis" group="MIX (GB)" logo="https://seeklogo.com/images/S/sky-sports-logo-32267082CE-seeklogo.com.png" catchup="flussonic", Sky Sports Tennis
+http://cdnx1.plusx.tv:4000/Sky-Sports-Tennis/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TNT Sports 1" group="MIX (GB)" logo="http://logo.plusx.tv/logo/tnt1.png" catchup="flussonic", TNT Sports 1
+http://cdnx1.plusx.tv:4000/tntsport1/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TNT Sports 2" group="MIX (GB)" logo="http://logo.plusx.tv/logo/tnt2.png" catchup="flussonic", TNT Sports 2
+http://cdnx1.plusx.tv:4000/tntsport2/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TNT Sports 3" group="MIX (GB)" logo="http://logo.plusx.tv/logo/tnt3.png" catchup="flussonic", TNT Sports 3
+http://cdnx1.plusx.tv:4000/tntsport3/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TNT Sports 4" group="MIX (GB)" logo="http://logo.plusx.tv/logo/tnt4.png" catchup="flussonic", TNT Sports 4
+http://cdnx1.plusx.tv:4000/tntsport4/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="TNT Sports 5" group="MIX (GB)" logo="http://logo.plusx.tv/logo/tnt5.png" catchup="flussonic", TNT Sports 5
+http://cdnx1.plusx.tv:4000/tntsport5/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="VSport 1 HD" group="MIX (SWE)" logo="http://logo.plusx.tv/logo/50047-3.png" catchup="flussonic", VSport 1 HD
+http://cdnx1.plusx.tv:4000/VSport-1-HD/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="VSport Vinter HD" group="MIX (SWE)" logo="http://logo.plusx.tv/logo/50049-4.png" catchup="flussonic", VSport Vinter HD
+http://cdnx1.plusx.tv:4000/VSport-Vinter-HD/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="VSport Extra HD" group="MIX (SWE)" logo="http://logo.plusx.tv/logo/20092-3.png" catchup="flussonic", VSport Extra HD
+http://cdnx1.plusx.tv:4000/VSport-Extra-HD/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Autopilot" group="Sport" logo="http://logo.plusx.tv/logo/Auto+Pilot.png" catchup="flussonic", Auto Pilot
+http://cdnx1.plusx.tv:4000/1020f/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="E-SPORT" group="Sport" logo="http://epg.ovh/logo/E-SPORT.png" catchup="flussonic", E-SPORT
+http://cdnx1.plusx.tv:4000/Sky-Sport-Bundesliga-2-HD/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="KSW" group="Sport" logo="https://epg.ovh/logo/KSW%20PL.png" catchup="flussonic", PPV Event Fight 1 HD
+http://cdnx1.plusx.tv:4000/325m/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="Fightevent" group="Sport" logo="https://epg.ovh/logo/FAME+MMA+HD.png" catchup="flussonic", PPV Event Fight 2 HD
+http://cdnx1.plusx.tv:4000/325m2/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="2883" name="CNN" group="MIX (USA)" logo="https://epg.ovh/logo/CNN.png" catchup="flussonic", CNN HD
+http://cdnx1.plusx.tv:4000/103g/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="527" name="CNBC" group="MIX (USA)" logo="https://epg.ovh/logo/CNBC.png" catchup="flussonic", CNBC HD
+http://cdnx1.plusx.tv:4000/234/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="-1" name="FOXNewsChannel.us" group="MIX (USA)" logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1152.1504058303.png" catchup="flussonic", FOX News Channel HD
+http://cdnx1.plusx.tv:4000/Fox-News-US/mono.m3u8?token=f5485ac6d54dba40593333
+#EXTINF:0 type="stream" channelId="424" name="1+1" group="MIX (UA)" catchup="flussonic", 1+1 HD
+http://cdnx1.plusx.tv:4000/201p/mono.m3u8?token=f5485ac6d54dba40593333
